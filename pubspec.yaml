@@ -5,7 +5,7 @@ homepage: https://github.com/Ayush5090/custom_package
 
 environment:
   sdk: ^3.5.3
-  flutter: ">=1.17.0"
+  flutter: ">=1.17.0 <=3.7.0"
 
 dependencies:
   flutter:
