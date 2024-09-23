@@ -1,11 +1,12 @@
+<!--
 ## Installation
 
 Add package in your pubspec.ymal file:
 
 custom_package:
-git:
-url: https://github.com/Ayush5090/custom_package
-ref: main
+  git:
+    url: https://github.com/Ayush5090/custom_package
+    ref: main
 
 ## Usage
 
