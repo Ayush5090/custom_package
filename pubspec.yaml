@@ -1,7 +1,7 @@
 name: custom_package
-description: "A new Flutter project."
+description: "First flutter custom package for practice"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Ayush5090/custom_package
 
 environment:
   sdk: ^3.5.3
