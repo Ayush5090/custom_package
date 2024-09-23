@@ -1,4 +1,3 @@
-<!--
 ## Installation
 
 Add package in your pubspec.ymal file:
